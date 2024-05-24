@@ -47,7 +47,7 @@
     <tr>
       <td valign="top">
         <h3>🔍 Where to Find Me</h3>
-        <a href="https://www.linkedin.com/in/eugen-iofciu-vasile-17a899196"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
+        <a href="https://www.linkedin.com/in/nkuthalo-makonco-2b198016a/"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
         &nbsp;
         <a href="https://www.instagram.com/nkuthalomakonco"><img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F" alt="Instagram logo" title="Instagram" height="25" /></a>
         &nbsp;
